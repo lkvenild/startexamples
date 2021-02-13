@@ -5,7 +5,7 @@
  **/
 void atmel_start_init(void)
 {
+	// This file is a test from github
 	system_init();
-	ost er bra
 	touch_init();
 }
